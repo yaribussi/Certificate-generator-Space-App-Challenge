@@ -2,7 +2,9 @@
 pyhton SW for generate automatically all certificate for partecipants, team leader and local lead
 
 
-# TUTORIAL:
+# TUTORIAL
+First of all, download the pyhton program named "exParsing", then:
+
 1) Go to line 9 and change "lista_principale" with your excel name , REMEMBER to add .xls at the end of the name
 2) Go to line 12 and change the number of the column on your excel file where the name of partecipants is stocked 
 3) Go to line 15 and change the mane of the sample PDF, REMEMBER to add .PDF at the end of the name 
