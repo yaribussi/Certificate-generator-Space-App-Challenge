@@ -8,7 +8,7 @@ First of all, download the pyhton program named "exParsing", then:
 1) Go to line 9 and change "lista_principale" with your excel name 
    ATTENTION:  remember to add .xls at the end of the name
    
-2) Go to line 12 and change the number of the column on your excel file where the name of partecipants is stocked 
+2) Go to line 12 and change the number of the column on your excel file where the name of partecipants are stocked 
 
 3) Go to line 15 and change the mane of the sample PDF, REMEMBER to add .PDF at the end of the name 
     ATTENTION,: the pdf file must be in the same directory of the pyhton program
